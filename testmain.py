@@ -1,6 +1,6 @@
 
 try:
-    f = open('main.py')
+    f = open('main.cpp')
 except Exception as e:
     print('False')
     # print (e)
