@@ -7,7 +7,7 @@ except Exception as e:
 else:
     lines = f.read()
 
-if 'sort' in lines:
+if 'if' in lines:
     print('False')
 else:
     print('True')
